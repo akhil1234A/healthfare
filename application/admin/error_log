@@ -1,0 +1,164 @@
+[14-Feb-2024 05:55:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[14-Feb-2024 05:55:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[14-Feb-2024 05:55:41 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[14-Feb-2024 05:55:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[14-Feb-2024 11:45:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[14-Feb-2024 11:45:40 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[14-Feb-2024 11:45:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:17:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[16-Feb-2024 05:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[16-Feb-2024 05:17:32 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:17:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:29:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[16-Feb-2024 05:29:24 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:29:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:35:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[16-Feb-2024 05:35:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[16-Feb-2024 05:35:51 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Feb-2024 05:35:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 14:52:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 14:52:45 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 14:52:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 14:58:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 14:58:16 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 14:58:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 14:59:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 14:59:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:00:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:01:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:02:17 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:02:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:07 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:03:43 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:57 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:57 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:03:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:05:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:08:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:11:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:11:21 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:11:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:11:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:14:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:15:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:15:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:16:04 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:16:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:16:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:19:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 15:20:41 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 15:20:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Feb-2024 16:08:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 16:09:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Feb-2024 16:09:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[20-Feb-2024 01:26:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[20-Feb-2024 16:40:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[07-Mar-2024 10:14:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 09:24:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 09:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 09:25:38 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[12-Mar-2024 09:25:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[12-Mar-2024 09:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 09:52:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 15:59:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 15:59:14 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[12-Mar-2024 15:59:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[12-Mar-2024 16:14:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 17:23:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 17:24:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[12-Mar-2024 17:25:24 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[12-Mar-2024 17:25:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 04:04:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[13-Mar-2024 04:04:20 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 04:04:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:03:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[13-Mar-2024 07:04:28 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:04:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:04:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[13-Mar-2024 07:05:20 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:05:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:05:20 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[13-Mar-2024 07:05:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[16-Mar-2024 16:31:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Mar-2024 09:24:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Mar-2024 09:25:22 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:25:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:25:55 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:25:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:26:34 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:26:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:27:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[18-Mar-2024 09:27:35 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:27:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:27:43 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:27:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[18-Mar-2024 09:28:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[21-Mar-2024 11:36:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[21-Mar-2024 11:36:24 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[21-Mar-2024 11:36:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[23-Mar-2024 06:45:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[23-Mar-2024 06:45:10 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[23-Mar-2024 06:45:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[23-Mar-2024 08:36:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[23-Mar-2024 08:36:12 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[23-Mar-2024 08:36:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[23-Mar-2024 08:36:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[25-Mar-2024 07:39:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[25-Mar-2024 17:02:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[25-Mar-2024 17:03:41 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[25-Mar-2024 17:03:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[25-Mar-2024 17:04:39 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[25-Mar-2024 17:04:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 05:53:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 07:44:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 07:44:38 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 07:44:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 10:07:29 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 10:07:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 10:07:43 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 10:07:48 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 10:07:53 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:07:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:08 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:19 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:32 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 10:08:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:07:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 15:17:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 15:17:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 15:17:44 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:17:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:18:00 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:18:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:18:20 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:18:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:22 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:24 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 15:20:30 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 15:20:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 17:35:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 17:53:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 23:48:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[26-Mar-2024 23:48:56 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[26-Mar-2024 23:48:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[27-Mar-2024 02:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sparkt171/public_html/healthfare/application/admin/index.php on line 320
+[27-Mar-2024 02:39:18 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[27-Mar-2024 02:39:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[27-Mar-2024 02:39:45 UTC] PHP Notice:  Undefined variable: userData in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
+[27-Mar-2024 02:39:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparkt171/public_html/healthfare/application/admin/dietitians.php on line 327
